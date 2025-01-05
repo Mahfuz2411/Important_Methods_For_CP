@@ -1,0 +1,4 @@
+*.py
+*.cpp
+*.exe
+.vscode
